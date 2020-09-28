@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0; padding:0;
+}
+
+
+
+
+.conteiner {
+	width:1366px; 
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.hero_image {
+	background-image: url(pc_work-assets/mag.png);
+	background-repeat:no-repeat;
+}
+
+h1{
+	position:absolute;
+	left:350px;
+	width: 238px;
+	height: 78px;
+	top: 10px;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+	position: absolute;
+	top: 52px;
+	left: 1150px;
+}
+
+	ul li {
+		margin-right:80px;
+		font-size: 20px;
+		line-height: 3;
+		top: 50px;
+	}
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.box {
+	width: 100%;
+	height: 1300px; 
+	text-align: center;
+	padding:200px 0px 10px 0px;
+}
+
+
+
+.conteiner1 {
+	display:flex;
+	justify-content:center;
+	padding-top: 60px;
+	
+}
+
+.item1 {
+	display: flex;
+	margin:10px 45px 10px 20px;
+	text-align:center
+}
+
+
+
+.conteiner2 {
+	display:flex;
+	justify-content:center;
+	padding-top: 30px;
+
+}
+
+.item2 {
+	display:flex;
+	margin:10px 5px 10px 5px;
+	text-align:center;
+}
+
+
+
+section {
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+}
+
+
+.back_buttom {
+	padding:100px 0px 10px 0px;
+
+}
+
+
+footer {
+	text-align: center;
+	padding:100px 0;
+	background-color:#E5E5E5;
+	width: 1366px;
+	height: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+}

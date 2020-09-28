@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0; padding:0;
+}
+
+
+
+
+.conteiner {
+	width:1366px; 
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.hero_image {
+	background-image: url(pc_work-assets/mag.png);
+	background-repeat:no-repeat;
+}
+
+h1{
+	position:absolute;
+	left:350px;
+	width: 238px;
+	height: 78px;
+	top: 10px;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+	position: absolute;
+	top: 52px;
+	left: 1150px;
+}
+
+	ul li {
+		margin-right:80px;
+		font-size: 20px;
+		line-height: 3;
+		top: 50px;
+	}
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+.box {
+	width: 100%;
+	height: 1300px; 
+	text-align: center;
+	padding:200px 0px 10px 0px;
+}
+
+
+
+section {
+	padding:50px 0;
+	background-color:#FFFFFF;
+	width: 1366px;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	text-align: center;
+}
+
+section2 {
+	padding:70px 0;
+	background-color:#FFFFFF;
+	width: 1366px;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+
+footer {
+	text-align: center;
+	padding:100px 0;
+	background-color:#E5E5E5;
+	width: 1366px;
+	height: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+}
+
+.work_all {
+	display: flex;
+	position: relative;
+	top: 100px;
+	left: 80px;
+}
+
+.work_item {
+	width:400px;
+	height: 300px;
+}
+
+.work2_all {
+	display: flex;
+	position: relative;
+	top: 100px;
+	left: 80px;
+}
+
+.work2_item {
+	width:400px;
+	height: 300px;
+}
+
+
+
+
+.back_buttom {
+	padding:100px 0px 10px 0px;
+	margin-bottom: 150px;
+	text-align: center;
+}
+
+
+footer {
+	text-align: center;
+	padding:100px 0;
+	background-color:#E5E5E5;
+	width: 1366px;
+	height: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+}
